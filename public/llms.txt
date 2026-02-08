@@ -1,0 +1,53 @@
+# הסנטר — Generative Engine Optimization Map
+
+> A מדיה דיגיטלית ופרסום business.
+
+---
+
+## Pages
+
+### Home
+https://-1f837a93.zappy5.app
+
+### Services
+https://-1f837a93.zappy5.app/services
+
+### Editorial
+https://-1f837a93.zappy5.app/editorial
+
+### Contact
+https://-1f837a93.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-1f837a93.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-1f837a93.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-1f837a93.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הסנטר
+הסנטר is a business in the מדיה דיגיטלית ופרסום industry.
+
+## Target Audience
+ציבור חרדי
+
+## Industry
+מדיה דיגיטלית ופרסום
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-1f837a93.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-1f837a93.zappy5.app/robots.txt
